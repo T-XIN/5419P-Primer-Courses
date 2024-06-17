@@ -64,6 +64,7 @@ The coursework material is a compilation of content from different resources, pr
 
 ## Resources
 
+- The [NCL library website](https://www.ncl.ac.uk/library/) provides free access to all the books used throughout this course. You will be able to fully get access to them after you are fully registered on this programme.
 - [Code repo](https://github.com/johnehunt/beginnerspython3) for book *The Beginners Guide to Python 3 Programming* which provides all exercise codes and solutions.
 
 ---
