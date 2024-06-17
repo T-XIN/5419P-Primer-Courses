@@ -1,4 +1,4 @@
-﻿# Block 1 Exercise 1
+﻿# Block 1 Exercise
 
 ## Practice exercises
 
