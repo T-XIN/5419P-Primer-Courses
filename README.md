@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-| Python Programming Language                   |
+| Python Programming Language |                 |
 |-----------------------------------------------|
 | Topic                       | Price           |
 |-----------------------------|-----------------|
