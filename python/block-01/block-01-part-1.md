@@ -1,4 +1,4 @@
-# Block 1 - Environment Setup
+# Block 1 Part 1- Environment Setup
 
 Welcome to part 1 of this session. Our goal is to setup Python so that we can get started with
 Python coding.
