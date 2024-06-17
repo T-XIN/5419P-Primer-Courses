@@ -4,6 +4,10 @@ The book [R for Data Science](https://r4ds.hadley.nz/) is well-known as the "bib
 
 Use the free online version of this book and read the following chapters, making sure to try the code examples yourself. I highly encourage you to type the code in RStudio rather than copying and pasting it, as this will give you a more authentic experience of coding in R.
 
+- Prerequisites
+
+Read Chapter [Introduction](https://r4ds.hadley.nz/intro), prepare your RStudio environment and all the packages you will use throught the exercises.
+
 - whole game
 
     - [ ] 1 data visualisation
