@@ -29,9 +29,9 @@
     </tr>
     <tr>
       <td>3</td>
-      <td>Lazy evaluation</td>
-      <td>Numerical computing with Numpy</td>
-      <td>Exercises 3</td>
+      <td><a href="\python\block-03\block-03-part-1.md">Lazy evaluation</td>
+      <td><a href="\python\block-02\block-03-part-2.md">Numerical computing with Numpy</td>
+      <td><a href="\python\block-02\block-03-exercise-3.md">Exercises 3</td>
     </tr>
     </tr>
       <td>4</td>
