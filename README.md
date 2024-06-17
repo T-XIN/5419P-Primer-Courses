@@ -11,6 +11,7 @@
       <th>Block</th>
       <th>Part 1</th>
       <th>Part 2</th>
+      <th>Exercises</th>
     </tr>
   </thead>
   <tbody>
@@ -18,21 +19,25 @@
       <td>1</td>
       <td><a href="python/block-01/block-01-part-1.md">Environment setup with Anaconda</a></td>
       <td><a href="python/block-01/block-01-part-2.md">Getting started with Python</a></td>
+      <td>Exercises 1</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Jupyter notebooks</td>
       <td>Python data structures</td>
+      <td>Exercises 2</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Lazy evaluation</td>
       <td>Numerical computing with Numpy</td>
+      <td>Exercises 3</td>
     </tr>
     </tr>
       <td>4</td>
       <td>Pandas Series and DataFrames</td>
       <td>Data wrangling with Pandas</td>
+      <td>Exercises 4</td>
     </tr>
   </tbody>
 </table>
