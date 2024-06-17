@@ -31,13 +31,13 @@ In this section you will:
 
 ---
 
-### Install Anaconda
+## Install Anaconda
 
 - School computer - If you're on a school computer, then Anaconda should be available .
 - Personal computer - If you're using you're personal computer, download the
   [installer](https://docs.anaconda.com/free/anaconda/install/) and follow the instructions on screen.
 
-### Open Anaconda Navigator
+## Open Anaconda Navigator
 
 Once Anaconda has been successfully installed, open Anaconda Navigator. It should look like this:
 
