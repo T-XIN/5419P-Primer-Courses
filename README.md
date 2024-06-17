@@ -5,7 +5,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="3">Python</th>
+      <th colspan="4">Python</th>
     </tr>
     <tr>
       <th>Block</th>
@@ -55,11 +55,11 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td><a href="\r\block-01\block-01.md">Get started with RStudio</td>
+            <td><a href="\r\block-01.md">Get started with RStudio</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>R for Data Science</td>
+            <td><a href="\r\block-02.md">R for Data Science</td>
         </tr>
     </tbody>
 </table>
