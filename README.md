@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-| Python Programming Language |                 |
-|-----------------------------------------------|
+| Python Programming Language                  ||
+|-----------------------------|-----------------|
 | Topic                       | Price           |
 |-----------------------------|-----------------|
 | col 1 col 2                 | $1600           |
