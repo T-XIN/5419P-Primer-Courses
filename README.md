@@ -42,14 +42,12 @@
         <tr>
             <th colspan="2">R</th>
         </tr>
+        <tr>
             <th>Topic</th>
             <th>Resource</th>
-        <tr>
         </tr>
-        <tr>
-        </tr>
-    <thead>
-<table>
+    </thead>
+</table>
 
 This self-paced primer course is designed to equip you with the foundational knowledge and coding skills in Python and R, ensuring you have a strong starting point as you embark on your MSc Data Analytics Degree Apprenticeship journey.
 
