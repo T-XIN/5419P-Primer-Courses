@@ -1,6 +1,6 @@
 # Block2 Part 2 - Python Data Structures
 
-Welcome to part 2 of week 2. You will continue to learn about the Python language and develop your
+Welcome to part 2 of block 2. You will continue to learn about the Python language and develop your
 coding skills through practice.
 
 For each theme there is a suggested textbook resource for you to read through. A very important
