@@ -64,7 +64,7 @@ The coursework material is a compilation of content from different resources, pr
 
 ## Resources
 
-[Code repo](https://github.com/johnehunt/beginnerspython3) for book *The Beginners Guide to Python 3 Programming* which provides all exercise codes and solutions.
+- [Code repo](https://github.com/johnehunt/beginnerspython3) for book *The Beginners Guide to Python 3 Programming* which provides all exercise codes and solutions.
 
 ---
 
