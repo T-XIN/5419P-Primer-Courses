@@ -36,8 +36,8 @@
     </tr>
       <td>4</td>
       <td><a href="\python\block-04\block-04-part-1.md">Pandas Series and DataFrames</td>
-      <td>Data wrangling with Pandas</td>
-      <td>Exercises 4</td>
+      <td><a href="\python\block-04\block-04-part-2.md">Data wrangling with Pandas</td>
+      <td><a href="\python\block-04\block-04-exercise-4.md">Exercises 4</td>
     </tr>
   </tbody>
 </table>
