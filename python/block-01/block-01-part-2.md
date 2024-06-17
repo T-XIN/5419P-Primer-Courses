@@ -26,8 +26,8 @@ prompt on Anaconda's home tab.
 | Theme                       | Book Chapter                                                         | Sections                |
 | --------------------------- | -------------------------------------------------------------------- | ----------------------- |
 | What is Python?             | [1](pdf/john_hunt_ch01.pdf) | All                     |
-| Your first python program   | [3](https://ncl.instructure.com/courses/44969/modules/items/2533332) | All                     |
-| Strings                     | [4](https://ncl.instructure.com/courses/44969/modules/items/2533502) | All except 4.8          |
-| Numbers, booleans and None  | [5](https://ncl.instructure.com/courses/44969/modules/items/2533503) | Skip 5.5, 5.7.5 and 5.8 |
-| Flow control: if statements | [6](https://ncl.instructure.com/courses/44969/modules/items/2533504) | All                     |
-| Flow control: for loops     | [7](https://ncl.instructure.com/courses/44969/modules/items/2533505) | 7.1 - 7.4, 7.7          |
+| Your first python program   | [3](pdf/john_hunt_ch03.pdf) | All                     |
+| Strings                     | [4](pdf/john_hunt_ch04.pdf) | All except 4.8          |
+| Numbers, booleans and None  | [5](pdf/john_hunt_ch05.pdf) | Skip 5.5, 5.7.5 and 5.8 |
+| Flow control: if statements | [6](pdf/john_hunt_ch06.pdf) | All                     |
+| Flow control: for loops     | [7](pdf/john_hunt_ch07.pdf) | 7.1 - 7.4, 7.7          |

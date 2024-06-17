@@ -17,7 +17,7 @@
     <tr>
       <td>1</td>
       <td><a href="python/block-01/block-01-part-1.md">Environment setup with Anaconda</a></td>
-      <td>Introduction to Python</td>
+      <td>Getting started with Python</td>
     </tr>
     <tr>
       <td>2</td>
