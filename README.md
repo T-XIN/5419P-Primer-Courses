@@ -1,2 +1,3 @@
 # 5419P-Primer-Courses
-Foundational R and Python Skills for Master of Science in Digital and Technology Solutions Specialist - Data Analytics Specialist (Degree Apprenticeship) at Newcastle University, UK.
+
+This self-paced primer course is designed to equip you with the foundational knowledge and coding skills in Python and R, ensuring you have a strong starting point as you embark on your MSc Data Analytics Degree Apprenticeship journey.
