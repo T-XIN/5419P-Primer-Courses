@@ -66,6 +66,8 @@ The coursework material is a compilation of content from different resources, pr
 
 [Code repo](https://github.com/johnehunt/beginnerspython3) for book *The Beginners Guide to Python 3 Programming* which provides all exercise codes and solutions.
 
+---
+
 - :heavy_exclamation_mark: **This is coursework is not marked.**
 - :email: tong.xin@newcastle.ac.uk
 - :grey_question: :speech_balloon: Use GitHub [issues
