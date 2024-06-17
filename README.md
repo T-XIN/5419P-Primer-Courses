@@ -23,9 +23,9 @@
     </tr>
     <tr>
       <td>2</td>
-      <td>Jupyter notebooks</td>
-      <td>Python data structures</td>
-      <td>Exercises 2</td>
+      <td><a href="\python\block-02\block-02-part-1.md">Jupyter notebooks</td>
+      <td><a href="\python\block-02\block-02-part-2.md">Python data structures</td>
+      <td><a href="\python\block-02\block-02-exercise-2.md">Exercises 2</td>
     </tr>
     <tr>
       <td>3</td>
