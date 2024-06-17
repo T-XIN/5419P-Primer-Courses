@@ -48,10 +48,20 @@
             <th colspan="2">R</th>
         </tr>
         <tr>
+            <th>Block</th>
             <th>Topic</th>
-            <th>Resource</th>
         </tr>
     </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href="\r\block-01\block-01.md">Get started with RStudio</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>R for Data Science</td>
+        </tr>
+    </tbody>
 </table>
 
 ## About this course
