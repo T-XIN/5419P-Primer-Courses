@@ -54,3 +54,11 @@
 This self-paced primer course is designed to equip you with the foundational knowledge and coding skills in Python and R, ensuring you have a strong starting point as you embark on your MSc Data Analytics Degree Apprenticeship journey. In addition to key concepts, you will be introduced to the python and R ecosystems for data science, particularly Numpy for numerical computing and Pandas for manipulation and analysis of tabular data.
 
 The coursework material is a compilation of content from different resources, primarily textbooks. You are expected to work through the material at your own pace and complete the proposed practice/self-assessment exercises. Note, however, that these exercises **are not marked**.
+
+---
+
+- :heavy_exclamation_mark: **This is coursework is not marked.**
+- :email: tong.xin@newcastle.ac.uk
+- :grey_question: :speech_balloon: Use GitHub [issues
+page](https://github.com/T-XIN/5419P-Primer-Courses/issues) to ask questions and
+discuss with your peers.
